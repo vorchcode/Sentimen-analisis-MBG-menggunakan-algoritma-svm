@@ -1,0 +1,2 @@
+# Sentimen-analisis-MBG-menggunakan-algoritma-svm
+Penelitian ini bertujuan untuk menganalisis sentimen publik terhadap program Makan Bergizi Gratis (MBG) berdasarkan data opini masyarakat yang dikumpulkan dari media sosial. Analisis sentimen dilakukan untuk mengklasifikasikan opini ke dalam tiga kategori, yaitu positif, negatif,dan netral, guna memahami persepsi publik terhadap kebijakan tersebut.
